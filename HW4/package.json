@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^17.12.2",
+    "short-unique-id": "^5.0.3"
+  }
+}
